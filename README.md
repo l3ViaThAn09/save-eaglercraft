@@ -1,9 +1,15 @@
 # save-eaglercraft
+A copy of 1.5.2 and 1.8.8
+## this project will be deleted on Janurary 4, 2023.
+to create a fresh copy, press the fork button at the top
 
-this is a fork from LAX1DUDE Eaglercraft Link: https://github.com/LAX1dude/eaglercraft
+## Minecraft 1.5.2
+The original. Sadly discontinued, but the file still exists.  Save the download as a html file and BOOM, you have it.
+## Minecraft 1.8.8
+Newly discorvered. ONLY MULTIPLAYER! Download as html file
 
-When you download, please save the file in a .html format like this
 
-Eaglercraft.html
 
-this eaglercraft is a all in 1
+#### how to download
+
+When you download, it WILL
