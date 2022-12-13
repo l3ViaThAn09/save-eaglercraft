@@ -17,4 +17,4 @@ When you download, it WILL save as a .txt file. i CANNOT change that, so the onl
 Minecraft.HTML
 
 
-###### HOW TO RUN EAGLERCRAFT SERVERS
+<!-- HOW TO RUN EAGLERCRAFT SERVERS --!>
