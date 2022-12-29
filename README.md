@@ -1,5 +1,5 @@
 # save-eaglercraft
-A copy of 1.5.2 and 1.8.8, in a single 
+A copy of 1.5.2 and 1.8.8 in html format.
 ## this project will be deleted on Janurary 4, 2023.
 to create a fresh copy, press the fork button at the top
 
@@ -10,11 +10,9 @@ Newly discorvered. THIS VERSION ONLY SUPPORTS MULTIPLAYER! this version is also 
 
 
 # how to download
-
-When you download, it WILL save as a .txt file. i CANNOT change that, so the only solution is to change the end of the file name to .HTML, like this
-
-
-Minecraft.HTML
+Click one of the 2 files, and press 'raw'
 
 
-###### HOW TO RUN EAGLERCRAFT SERVERS
+
+
+## HOW TO RUN EAGLERCRAFT SERVERS ON 1.5.2
